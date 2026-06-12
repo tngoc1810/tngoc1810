@@ -20,23 +20,39 @@
 
 ## 🛡️ About Me
 
-I am an Information Security student focused on **SOC analysis, Blue Team operations, threat detection, log analysis, DFIR, and practical cybersecurity investigations**.
+I am an **Information Security student** focused on **SOC analysis, Blue Team operations, threat detection, log analysis, DFIR, malware triage, and practical cybersecurity investigations**.
 
-I am building a public portfolio through hands-on labs, CTF writeups, investigation reports, and detection-focused notes.
+I am building a public cybersecurity portfolio through hands-on labs, CTF writeups, investigation reports, and detection-focused notes.
 
 ---
 
 ## 🔵 Blue Team Focus
 
-- SOC alert triage
-- SIEM investigation
-- Windows Event Logs and Sysmon
-- Network forensics with Wireshark
-- Malware traffic analysis
-- Phishing investigation
+- SOC alert triage and case handling
+- SIEM investigation with Elastic/Kibana and Splunk basics
+- Windows Event Logs and Sysmon analysis
+- Network forensics with Wireshark and PCAPs
+- Malware traffic analysis and basic dynamic analysis
+- Phishing investigation and email header analysis
+- IOC enrichment and threat intelligence lookup
 - MITRE ATT&CK mapping
-- Incident reporting
-- Detection engineering basics
+- Incident reporting and analyst notes
+
+---
+
+## 🎓 Certifications & Learning Progress
+
+<p>
+  <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201%20Path-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe SOC Level 1" />
+  <img src="https://img.shields.io/badge/LetsDefend-Malware%20Analysis%20Fundamentals-1E90FF?style=for-the-badge" alt="LetsDefend Malware Analysis Fundamentals" />
+  <img src="https://img.shields.io/badge/CyberJutsu-Blue%20Team%20Training-0052CC?style=for-the-badge" alt="CyberJutsu Blue Team" />
+</p>
+
+| Certification / Program | Platform | Status |
+|---|---|---|
+| SOC Level 1 Path | TryHackMe | Completed |
+| Malware Analysis Fundamentals | LetsDefend | Completed |
+| Blue Team Training | CyberJutsu | Upcoming / In Progress |
 
 ---
 
@@ -47,9 +63,11 @@ I am building a public portfolio through hands-on labs, CTF writeups, investigat
 | SIEM & Logs | Elastic/Kibana, Splunk basics, Windows Event Logs, Sysmon |
 | Network Analysis | Wireshark, PCAP analysis, HTTP, DNS, SMTP investigation |
 | Threat Intelligence | VirusTotal, CyberChef, IOC enrichment, MITRE ATT&CK |
-| Malware Triage | Procmon, Process Hacker, strings, PE analysis basics |
+| Malware Triage | Procmon, Process Hacker, strings, PE analysis basics, dynamic analysis basics |
+| Web Security | Basic web attack detection, SQLi/LFI/RFI/XSS log review |
 | Reporting | Timeline reconstruction, evidence-based writeups, remediation notes |
-| Scripting | Python basics, Bash basics, automation mindset |
+| Scripting | Python basics, Bash basics, PowerShell basics, automation mindset |
+| Operating Systems | Windows, Linux, Kali Linux, WSL |
 
 ---
 
@@ -61,11 +79,12 @@ I am building a public portfolio through hands-on labs, CTF writeups, investigat
 | 📝 SOC / DFIR / CTF Writeups | Investigation reports and lab notes |
 | 🔎 CyberDefenders Labs | Network forensics and Blue Team practice |
 | 🧪 TryHackMe SOC Level 1 | SOC fundamentals and SIEM practice |
+| 🛡️ LetsDefend SOC Cases | Alert triage, phishing, malware, and web attack investigations |
 | 🛠️ Detection Notes | Suspicious behavior patterns and detection logic |
 
 ---
 
-## 🎯 Current Goal
+## 🚀 Current Goal
 
 I am preparing for a **SOC Analyst Intern / Blue Team Intern** position by improving my practical investigation skills, writing clearer reports, and building a stronger cybersecurity portfolio.
 
