@@ -22,14 +22,14 @@
 
 I am an **Information Security student** focused on **SOC analysis, Blue Team operations, threat detection, log analysis, DFIR, malware triage, and practical cybersecurity investigations**.
 
-I am building a public cybersecurity portfolio through hands-on labs, CTF writeups, investigation reports, and detection-focused notes.
+I am building a public cybersecurity portfolio through hands-on labs, investigation reports, CTF writeups, and detection-focused notes.
 
 ---
 
 ## 🔵 Blue Team Focus
 
 - SOC alert triage and case handling
-- SIEM investigation with Elastic/Kibana and Splunk basics
+- SIEM investigation with Elastic/Kibana and Splunk
 - Windows Event Logs and Sysmon analysis
 - Network forensics with Wireshark and PCAPs
 - Malware traffic analysis and basic dynamic analysis
@@ -44,14 +44,18 @@ I am building a public cybersecurity portfolio through hands-on labs, CTF writeu
 
 <p>
   <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201%20Path-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe SOC Level 1" />
-  <img src="https://img.shields.io/badge/LetsDefend-Malware%20Analysis%20Fundamentals-1E90FF?style=for-the-badge" alt="LetsDefend Malware Analysis Fundamentals" />
+  <img src="https://img.shields.io/badge/Splunk-Intro%20to%20Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Intro to Splunk" />
+  <img src="https://img.shields.io/badge/Splunk-Defense%20Analyst-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Security Operations and the Defense Analyst" />
+  <img src="https://img.shields.io/badge/Security%20Blue%20Team-Junior%20Analyst-0052CC?style=for-the-badge" alt="Blue Team Junior Analyst" />
   <img src="https://img.shields.io/badge/CyberJutsu-Blue%20Team%20Training-0052CC?style=for-the-badge" alt="CyberJutsu Blue Team" />
 </p>
 
 | Certification / Program | Platform | Status |
 |---|---|---|
-| SOC Level 1 Path | TryHackMe | Completed |
-| Malware Analysis Fundamentals | LetsDefend | Completed |
+| SOC Level 1 Learning Path | TryHackMe | Completed |
+| Intro to Splunk | Splunk | Completed |
+| Security Operations and the Defense Analyst | Splunk Blue Team Academy | Completed |
+| Blue Team Junior Analyst | Security Blue Team | Completed |
 | Blue Team Training | CyberJutsu | Upcoming / In Progress |
 
 ---
@@ -60,7 +64,7 @@ I am building a public cybersecurity portfolio through hands-on labs, CTF writeu
 
 | Category | Tools / Skills |
 |---|---|
-| SIEM & Logs | Elastic/Kibana, Splunk basics, Windows Event Logs, Sysmon |
+| SIEM & Logs | Elastic/Kibana, Splunk, SPL basics, Windows Event Logs, Sysmon |
 | Network Analysis | Wireshark, PCAP analysis, HTTP, DNS, SMTP investigation |
 | Threat Intelligence | VirusTotal, CyberChef, IOC enrichment, MITRE ATT&CK |
 | Malware Triage | Procmon, Process Hacker, strings, PE analysis basics, dynamic analysis basics |
