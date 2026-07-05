@@ -53,7 +53,6 @@ I am building a public cybersecurity portfolio through hands-on labs, investigat
 
 | Certification / Program | Platform | Status |
 |---|---|---|
-| **Qualys Certified Specialist - VMDR** | Qualys | Completed |
 | **Application of MITRE ATT&CK Navigator** | AttackIQ | Completed |
 | **Foundations of Operationalizing MITRE ATT&CK** | AttackIQ | Completed |
 | Data and Tools for Defense Analysts | Cisco NetAcad | Completed |
