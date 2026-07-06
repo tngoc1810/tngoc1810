@@ -42,7 +42,6 @@ I am building a public cybersecurity portfolio through hands-on labs, investigat
 ## 🎓 Certifications & Learning Progress
 
 <p>
-  <img src="https://img.shields.io/badge/Qualys-Certified%20Specialist%20VMDR-ED2E26?style=for-the-badge" alt="Qualys VMDR" />
   <img src="https://img.shields.io/badge/AttackIQ-MITRE%20ATT&CK%20Foundations-000000?style=for-the-badge" alt="AttackIQ MITRE" />
   <br>
   <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201%20Path-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe SOC Level 1" />
