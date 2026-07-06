@@ -69,7 +69,6 @@ I am building a public cybersecurity portfolio through hands-on labs, investigat
 | Category | Tools / Skills |
 |---|---|
 | **SIEM & Logs** | Splunk, Elastic/Kibana, SPL basics, Windows Event Logs, Sysmon |
-| **Vulnerability Management** | Qualys VMDR |
 | **Network Analysis** | Wireshark, PCAP analysis, HTTP, DNS, SMTP investigation |
 | **Threat Intelligence** | MITRE ATT&CK Navigator, VirusTotal, CyberChef, IOC enrichment |
 | **Malware Triage** | Procmon, Process Hacker, strings, PE analysis basics, dynamic analysis basics |
@@ -83,8 +82,7 @@ I am building a public cybersecurity portfolio through hands-on labs, investigat
 | Work | Focus |
 |---|---|
 | 🌐 [Security Portfolio](https://tngoc1810.github.io) | Main portfolio website |
-| 📝 **15+ SOC / DFIR Writeups** | Detailed investigation reports and malware analysis notes |
-| 🛡️ Threat Emulation Project | Mapping Malware TTPs to MITRE ATT&CK Navigator |
+| 📝 **19+ SOC / DFIR Writeups** | Detailed investigation reports and malware analysis notes |
 | 🔎 CyberDefenders Labs | Network forensics and Blue Team practice |
 | 🧪 TryHackMe & LetsDefend | SOC fundamentals, alert triage, phishing, and web attacks |
 
